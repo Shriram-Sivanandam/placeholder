@@ -1,0 +1,15 @@
+.overlays {
+  width: 100vw;
+  height: 100vh;
+}
+
+.markerBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.markerBtn > img {
+  height: 45px;
+  width: 30px;
+}
